@@ -81,7 +81,7 @@ Here's a snapshot of the key technologies and skills I actively work with:
 
 ---
 
-<div style="display: flex; justify-content: space-around;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milena-rosa&show_icons=true&locale=en&layout=compact" alt="milena-rosa" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milena-rosa&show_icons=true&locale=en&layout=compact" alt="milena-rosa" />&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milena-rosa&" alt="milena-rosa" />
-</div>
+</p>
